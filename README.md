@@ -1,1 +1,3 @@
 For this project, I am creating an online profile. With this personal profile, I will create three pages: a home page, a portfolio page, and a contact page. This website should have responsive design that works on different devices including mobile devices. There is a navigation bar on every page of my online profile that links to the other pages on the website. This will be done using semantic HTML, Bootstrap components and the Bootstrap grid system.
+
+https://joyumoekpo.github.io/
