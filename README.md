@@ -1,6 +1,12 @@
+Joy Umoekpo Portfolio
+
 For this project, I am creating an online profile. With this personal profile, I will create three pages: a home page, a portfolio page, and a contact page. This website should have responsive design that works on different devices including mobile devices. There is a navigation bar on every page of my online profile that links to the other pages on the website. This will be done using semantic HTML, Bootstrap components and the Bootstrap grid system.
 
-Updated Portfolio Website: https://joyumoekpo.github.io/
+Deployed Portfolio Website: https://joyumoekpo.github.io/
+
+Technologies Used: GitHub and Visual Studio Code
+
+Contact Information: https://github.com/JoyUmoekpo
 
 ## Requirements
 
@@ -123,3 +129,13 @@ Your resume should include:
 💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
+MIT License
+
+Copyright (c) [2021] [Joy-Umoekpo-Portfolio]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
