@@ -24,3 +24,7 @@
   lg: 960px,
   xl: 1140px
 };
+
+card mb-3 {
+  margin: auto;
+}
