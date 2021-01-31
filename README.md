@@ -123,15 +123,3 @@ Your resume should include:
 💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-### ⭐ 5. For Job-Seeking Students (BONUS)
-
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
-
-* added to our employer referral list, where we'll help match you with employers for interviews
-
-* exclusive access to workshops for employer-ready students
-
-* a statistically higher success rate in your job search
-
-So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
